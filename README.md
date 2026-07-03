@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer | Technical Owner | Lifelong Practitioner**
 
-I am a software engineer focused on the craft of building scalable, production-grade systems. My approach blends 2 years of high-impact professional delivery at **PA Consulting** with a lifelong engagement in technology and a background in strategic leadership.
+I am a software engineer focused on the craft of building scalable, production-grade systems. My approach blends high-impact professional delivery at **PA Consulting** with a lifelong engagement in technology and a background in strategic leadership.
 
 ---
 
